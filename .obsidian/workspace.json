@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "59decfa696d1ac10",
@@ -165,13 +166,23 @@
               "icon": "lucide-list",
               "title": "Outline of What is Operating System"
             }
+          },
+          {
+            "id": "c5b320c02c1ec211",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 419.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -182,7 +193,8 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "e09f8d6b87498c68",
